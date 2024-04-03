@@ -2,7 +2,8 @@
 
 Welcome to my coding universe! 🚀 As a fullstack web developer, I'm constantly exploring the realms of code, pushing boundaries, and crafting digital experiences that leave a mark.
 
-## 💻 Tech Wizardry
+## 💻 Tech Wizardry ![AwesomeWebApp Demo](images/awesome_web_app_demo.gif)
+
 
 I wield an arsenal of programming languages, frameworks, and tools. From the front-end magic to the back-end sorcery, I thrive on turning ideas into interactive realities. Here are just a few of my favorite tools:
 

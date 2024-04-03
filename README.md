@@ -18,20 +18,12 @@ I'm a passionate Full Stack Developer with a love for creating efficient, scalab
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [email](mailto:your-email@example.com) for any inquiries or collaboration opportunities.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) to stay updated on my latest projects and professional endeavors.
+- 📫 Feel free to reach out to me via [email](mailto:vamshimarepu817@gmail.com) for any inquiries or collaboration opportunities.
+- 🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)) to stay updated on my latest projects and professional endeavors.
 
 ## Let's Collaborate!
 
 - 👨‍💻 I'm open to collaboration on exciting projects. If you have an idea you'd like to discuss or need assistance with a project, don't hesitate to reach out!
-
-## My Projects
-
-- 🚀 Check out some of my projects below to see what I've been working on!
-
-[Project 1 Name](link-to-project-1) - Brief description  
-[Project 2 Name](link-to-project-2) - Brief description  
-[Project 3 Name](link-to-project-3) - Brief description  
 
 ## Thank You for Visiting!
 

@@ -18,7 +18,7 @@ const vamshi = {
       js: ["Node.js", "Express"],
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
-    devOps: ["Docker", "Git", "GitHub Actions", "AWS", "Heroku"],
+    devOps: ["Docker", "Git", "GitHub Actions"],
     misc: ["Firebase", "GraphQL", "RESTful APIs"]
   },
   tools: ["Visual Studio Code", "Git", "Postman", "Figma"]

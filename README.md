@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer with a love for creating efficient, scalab
 ## About Me
 
 - 💻 I'm proficient in both frontend and backend development technologies.
-- 🌐 My expertise lies in JavaScript, HTML, CSS, Node.js, Express.js, React.js, and MongoDB.
+- 🌐 My expertise lies in JavaScript, HTML, CSS, Node.js, Express.js, Angular, and MongoDB.
 - 🔭 I'm currently exploring new technologies to enhance my skills and stay updated with industry trends.
 - 📚 I'm a continuous learner, always seeking to improve my knowledge and abilities.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vamshi!
 
-## I'm a Frontend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## I'm a Fullstack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🖥️ Welcome to my GitHub profile! Here's a bit about me
 - ⚡ I am a Frontend Developer based in India, skilled in JavaScript (React.js/Next.js).
 - 🌱 I'm currently learning MERN

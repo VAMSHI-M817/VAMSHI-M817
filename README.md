@@ -3,7 +3,8 @@
 
 ### Hi there 👋 I'm Vamshi!
 ![App Screenshot](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117go3snl97ewequ8bwpzyuiehxcxz80fghziz6opr&ep=v1_gifs_search&rid=200.webp&ct=g)
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="30" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
 </div>
  
 

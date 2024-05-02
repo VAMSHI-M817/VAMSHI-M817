@@ -8,7 +8,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="200" />
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="250">
 

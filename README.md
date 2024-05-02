@@ -20,7 +20,7 @@
 </div>
 
 
-## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## I'm a Fullstack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
 - 🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻
 - 🔭 Exploring cutting-edge tech to supercharge my skills and ride the wave of innovation! 🌊

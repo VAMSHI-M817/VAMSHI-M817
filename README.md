@@ -23,7 +23,8 @@
 - 🌱 I'm currently learning MERN
 - 🔭 I'm currently exploring new technologies to enhance my skills and stay updated with industry trends.
 - 📚 I'm a continuous learner, always seeking to improve my knowledge and abilities.
-- ⚡ You can find me on[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)
+- ⚡ You can find me on
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)
 ## 🛠️ Skills
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">

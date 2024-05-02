@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Vamshi!
 
 ## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
-
-## Screenshots
-
 ![App Screenshot](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117go3snl97ewequ8bwpzyuiehxcxz80fghziz6opr&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 

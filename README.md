@@ -2,7 +2,6 @@
 
 
 ### Hi there 👋 I'm Vamshi!
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ![App Screenshot](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117go3snl97ewequ8bwpzyuiehxcxz80fghziz6opr&ep=v1_gifs_search&rid=200.webp&ct=g)
 </div>
@@ -25,6 +24,7 @@
 **Other Libraries:** `React Hook Form`
 
 **Tools:** `Git` `GitHub`
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60">

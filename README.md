@@ -11,7 +11,7 @@
 
 ## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🖥️ Welcome to my GitHub profile! Here's a bit about me
-- 🌱 I'm currently learning MERN <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
+- 🌱 I'm currently learning MERN <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="20" />
 - 🔭 I'm currently exploring new technologies to enhance my skills and stay updated with industry trends.
 - 📚 I'm a continuous learner, always seeking to improve my knowledge and abilities.
 - ⚡ You can find me on [Email](mailto:vamshimarepu817@gmail.com) && [LinkedIn](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)

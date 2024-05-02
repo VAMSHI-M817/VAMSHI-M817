@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Vamshi!
 
 ![App Screenshot](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117go3snl97ewequ8bwpzyuiehxcxz80fghziz6opr&ep=v1_gifs_search&rid=200.webp&ct=g)
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200">
 
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="75">&nbsp;
 

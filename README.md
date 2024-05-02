@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Anmol_Codes)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/vamshi_marepu)
 
 ### Hi there 👋 I'm Vamshi!
 ![App Screenshot](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76117go3snl97ewequ8bwpzyuiehxcxz80fghziz6opr&ep=v1_gifs_search&rid=200.webp&ct=g)

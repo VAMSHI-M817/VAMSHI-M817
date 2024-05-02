@@ -8,6 +8,7 @@
  
 
 ## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 - 🖥️ Welcome to my GitHub profile! Here's a bit about me
 - 🌱 I'm currently learning MERN
 - 🔭 I'm currently exploring new technologies to enhance my skills and stay updated with industry trends.

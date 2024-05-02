@@ -6,7 +6,8 @@
 
 
 </div>
-## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="30" />
+ <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="30" />
+## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />  
 - 🖥️ Welcome to my GitHub profile! Here's a bit about me
 - 🌱 I'm currently learning MERN
 - 🔭 I'm currently exploring new technologies to enhance my skills and stay updated with industry trends.

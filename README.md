@@ -20,10 +20,10 @@
 
 
 ## I'm a Fullstack web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
-🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
-🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻
-🔭 Exploring cutting-edge tech to supercharge my skills and ride the wave of innovation! 🌊
-📚 Dedicated to the pursuit of knowledge, because in tech, learning never stops! 📖
+- 🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
+- 🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻
+- 🔭 Exploring cutting-edge tech to supercharge my skills and ride the wave of innovation! 🌊
+- 📚 Dedicated to the pursuit of knowledge, because in tech, learning never stops! 📖
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)
 ## 🛠️ Skills
 

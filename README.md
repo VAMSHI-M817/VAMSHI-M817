@@ -22,7 +22,7 @@
 - 📚 Dedicated to the pursuit of knowledge, because in tech, learning never stops! 📖
 - 🤝 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-marepu-003a802a8/)
 
-### 🛠️ Hi there 👋 I'm Vamshi!
+### 🛠️Skills!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 

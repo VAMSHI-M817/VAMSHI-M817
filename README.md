@@ -1,9 +1,11 @@
 <div align="center">
 
 ### Hi there 👋 I'm Vamshi!
+
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp;
    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="50" />&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
 
@@ -13,10 +15,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="200">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-</div
-
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
-[default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
+</div>
 ## I'm a Fullstack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
 - 🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻

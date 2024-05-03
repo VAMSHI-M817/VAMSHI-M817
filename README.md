@@ -14,9 +14,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+| `default` ![default][default] | `transparent` ![transparent][transparent] | `shadow_red` ![shadow_red][shadow_red] |
 
+[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
 ## I'm a Fullstack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
 - 🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻

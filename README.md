@@ -25,13 +25,13 @@
 
 </div>
 
-## I'm a Fullstack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## 𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🚀 Excited to embark on a MERN journey as a Fullstack Web <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
 - 🌱 Learning the MERN stack like a champ and gearing up to revolutionize the web! 💻
 - 🔭 Exploring cutting-edge tech to supercharge my skills and ride the wave of innovation! 🌊
 - 📚 Dedicated to the pursuit of knowledge, because in tech, learning never stops! 📖
 
-### 🛠️Skills!
+### 🛠️𝚂𝚔𝚒𝚕𝚕𝚜!
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">

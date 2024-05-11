@@ -3,6 +3,25 @@
 ###  █▓▒▒░░░🅷🅸 🆃🅷🅴🆁🅴 👋 🅸'🅼  🆅🅰🅼🆂🅷🅸░░░▒▒▓█
 
 
+<h1 align='center'>
+  Hi there 👋  I'm   
+  Bhaskara Sai Chitturi 👨‍💻
+</h1>
+<p align='center'>
+  A Passionate Trainer and Developer for Full Stack
+</p>
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/bhaskarasaichitturi/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_mr.bhaskara/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ 
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="130"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">

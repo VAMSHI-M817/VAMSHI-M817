@@ -1,21 +1,17 @@
 <div align="center">
 
-###  █▓▒▒░░░🅷🅸 🆃🅷🅴🆁🅴 👋 🅸'🅼  🆅🅰🅼🆂🅷🅸░░░▒▒▓█
+
 
 
 <h1 align='center'>
-  Hi there 👋  I'm   
-  Bhaskara Sai Chitturi 👨‍💻
+ ###  █▓▒▒░░░🅷🅸 🆃🅷🅴🆁🅴 👋 🅸'🅼  🆅🅰🅼🆂🅷🅸░░░▒▒▓█
 </h1>
 <p align='center'>
-  A Passionate Trainer and Developer for Full Stack
-</p>
-<p align='center'>
  
-  <a href="https://www.linkedin.com/in/bhaskarasaichitturi/" target="_blank">
+  <a href="https://www.linkedin.com/in/vamshi-marepu-003a802a8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_mr.bhaskara/" target="_blank">
+  <a href="https://www.instagram.com/mr_dazzler_0001/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  

@@ -14,6 +14,8 @@
   <a href="https://www.instagram.com/mr_dazzler_0001/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
  
 </p>
 

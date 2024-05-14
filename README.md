@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajamulali86)](https://github.com/tajamulali86/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajamulali86&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
  
 </p>
 

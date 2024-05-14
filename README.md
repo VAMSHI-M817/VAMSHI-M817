@@ -16,6 +16,7 @@
   </a>&nbsp;&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
  
 </p>
 

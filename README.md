@@ -15,9 +15,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
+
  
 </p>
 
@@ -50,8 +48,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
 </div>
+<h1 align='center'>
+Github Stats
+</h1>
+<p align='center'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
+
 

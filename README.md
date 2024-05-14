@@ -2,7 +2,6 @@
 
 ###
 
-
 <h1 align='center'>
 🅷🅸 🆃🅷🅴🆁🅴 👋 🅸'🅼  🆅🅰🅼🆂🅷🅸
 </h1>
@@ -15,10 +14,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-
- 
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180">
 <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
@@ -27,13 +23,13 @@
 
 </div>
 
-## 𝙸'𝚖 𝚊 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## 𝙄'𝙢 𝙖 𝙛𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 🚀 𝑬𝒙𝒄𝒊𝒕𝒆𝒅 𝒕𝒐 𝒆𝒎𝒃𝒂𝒓𝒌 𝒐𝒏 𝒂 𝑴𝑬𝑹𝑵 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒂𝒔 𝒂 𝑭𝒖𝒍𝒍𝒔𝒕𝒂𝒄𝒌 𝑾𝒆𝒃 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! 🌐
 - 🌱 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒉𝒆 𝑴𝑬𝑹𝑵 𝒔𝒕𝒂𝒄𝒌 𝒍𝒊𝒌𝒆 𝒂 𝒄𝒉𝒂𝒎𝒑 𝒂𝒏𝒅 𝒈𝒆𝒂𝒓𝒊𝒏𝒈 𝒖𝒑 𝒕𝒐 𝒓𝒆𝒗𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒊𝒛𝒆 𝒕𝒉𝒆 𝒘𝒆𝒃! 💻
 - 🔭 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒄𝒖𝒕𝒕𝒊𝒏𝒈-𝒆𝒅𝒈𝒆 𝒕𝒆𝒄𝒉 𝒕𝒐 𝒔𝒖𝒑𝒆𝒓𝒄𝒉𝒂𝒓𝒈𝒆 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝒓𝒊𝒅𝒆 𝒕𝒉𝒆 𝒘𝒂𝒗𝒆 𝒐𝒇 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏! 🌊
 - 📚 𝑫𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒕𝒐 𝒕𝒉𝒆 𝒑𝒖𝒓𝒔𝒖𝒊𝒕 𝒐𝒇 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆, 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒊𝒏 𝒕𝒆𝒄𝒉, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑𝒔! 📖
 
-### 🛠️𝚂𝚔𝚒𝚕𝚕𝚜!
+### 🛠️𝙎𝙠𝙞𝙡𝙡𝙨!
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
@@ -50,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 <h1 align='start'>
-Github Stats
+𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 </h1>
 <p align='start'>
  

@@ -45,9 +45,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-<h1 align='start'>
+<p align='start'>
 𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
-</h1>
+</p>
 <p align='start'>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)

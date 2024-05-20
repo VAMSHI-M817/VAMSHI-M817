@@ -4,7 +4,6 @@
 
 <h1 align='center'>
      𝙃𝙞 𝙏𝙝𝙚𝙧𝙚 👋 𝙄'𝙢 𝙑𝙖𝙢𝙨𝙝𝙞
-     
 </h1>
 <p align='center'>
  

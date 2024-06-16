@@ -26,7 +26,7 @@
 
 ## 𝙄'𝙢 𝙖 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 💻
-- 📚 𝑫𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒕𝒐 𝒕𝒉𝒆 𝒑𝒖𝒓𝒔𝒖𝒊𝒕 𝒐𝒇 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆, 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒊𝒏 𝒕𝒆𝒄𝒉, 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑𝒔! 📖
+- Building modern web applications with the MERN stack. 📖
 
 ## 🛠️𝙎𝙠𝙞𝙡𝙡𝙨!
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">

@@ -24,13 +24,13 @@
 
 </div>
 
-## 𝙄'𝙢 𝙖 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## 𝖨'𝗆  𝖺 𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 - 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙼𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔.
 - 𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚞𝚜𝚎𝚛 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚊𝚗𝚍 𝚎𝚊𝚐𝚎𝚛𝚕𝚢 𝚠𝚊𝚒𝚝𝚒𝚗𝚐 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚘𝚛𝚎! 
 - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 
 
 
-## 🛠️𝙎𝙠𝙞𝙡𝙡𝙨!
+## 🛠️𝖲𝗄𝗂𝗅𝗅𝗌
 
 <div align="start">
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,7 +41,7 @@
 </div>
 
 
-## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
+## 𝖦𝗂𝗍𝗁𝗎𝖻 𝗌𝗍𝖺𝗍𝗌
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 

@@ -54,3 +54,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
 
 
+
+| <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VAMSHI-M817&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+

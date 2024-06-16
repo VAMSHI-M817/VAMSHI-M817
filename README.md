@@ -32,7 +32,7 @@
 
 ## 🛠️𝙎𝙠𝙞𝙡𝙡𝙨!
 
-<div align="center">
+<div align="start">
      <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -46,14 +46,12 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VAMSHI-M817)](https://github.com/VAMSHI-M817/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact)
+
+| <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VAMSHI-M817&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
-
-| <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VAMSHI-M817&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VAMSHI-M817/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 

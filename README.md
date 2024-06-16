@@ -3,7 +3,7 @@
 ###
 
 <h1 align='center'>
-     𝙃𝙞 𝙏𝙝𝙚𝙧𝙚 👋 𝙄'𝙢 𝙑𝙖𝙢𝙨𝙝𝙞
+     𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋 𝙸'𝚖 𝚅𝚊𝚖𝚜𝚑𝚒
 </h1>
 <p align='center'>
 
@@ -25,8 +25,10 @@
 </div>
 
 ## 𝙄'𝙢 𝙖 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
-- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 💻
-- Building modern web applications with the MERN stack. 📖
+- Building 𝙼odern web applications with the MERN stack.
+- 𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚞𝚜𝚎𝚛 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚊𝚗𝚍 𝚎𝚊𝚐𝚎𝚛𝚕𝚢 𝚠𝚊𝚒𝚝𝚒𝚗𝚐 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚘𝚛𝚎! 
+- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 
+
 
 ## 🛠️𝙎𝙠𝙞𝙡𝙡𝙨!
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">

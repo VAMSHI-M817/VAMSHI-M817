@@ -24,13 +24,11 @@
 
 </div>
 
-## About Me
+**About me**
+- 💼 𝙵𝚛𝚘𝚗𝚝𝙴𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 𝚉𝚎𝚗𝚘𝚒𝚍𝚜
 - 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙼𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔.
 - 𝙻𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚞𝚜𝚎𝚛 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚊𝚗𝚍 𝚎𝚊𝚐𝚎𝚛𝚕𝚢 𝚠𝚊𝚒𝚝𝚒𝚗𝚐 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚘𝚛𝚎! 
 - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝙼𝙴𝚁𝙽 𝚜𝚝𝚊𝚌𝚔 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 
-
-
-## 🛠️𝖲kills
 
 <div align="start">
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

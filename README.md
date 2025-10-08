@@ -42,7 +42,7 @@
 class VamshiMarepu:
     def __init__(self):
         self.username = "VAMSHI-M817"
-        self.location = "Andhra Pradesh, India 🇮🇳"
+        self.location = "Telangana, India 🇮🇳"
         self.role = "AI/ML Enthusiast"
         
     def get_skills(self):

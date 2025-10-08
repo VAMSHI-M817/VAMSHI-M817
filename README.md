@@ -140,7 +140,6 @@ class VamshiMarepu:
 
 <br/>
 
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake-dark.svg" />
@@ -152,23 +151,6 @@ class VamshiMarepu:
 
 <!-- Animated Line Break -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<br/>
-
-<!-- Animated Line Break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<h3 align="center">✨ Show some ❤️ by starring some repositories! ✨</h3>
 
 <br/>
 

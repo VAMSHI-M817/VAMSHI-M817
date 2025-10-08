@@ -1,52 +1,47 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamshi%20Marepu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Developer%20|%20RAG%20Specialist%20|%20FastAPI%20Expert&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamshi%20Marepu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Enthusiast%20%7C%20Learning%20%26%20Building&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer+%F0%9F%A4%96;Building+Intelligent+RAG+Systems;Machine+Learning+%7C+Deep+Learning;FastAPI+%7C+PostgreSQL+%7C+LLMs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Learning+AI%2FML+%F0%9F%A4%96;Exploring+RAG+Systems;Building+with+FastAPI+%26+PostgreSQL;One+Step+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- About Me Section with Icons -->
+<!-- About Me Section -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px">
   About Me
 </h2>
 
 ```python
-class AIMLDeveloper:
+class LearningJourney:
     def __init__(self):
         self.name = "Vamshi Marepu"
-        self.role = "AI/ML Developer"
+        self.role = "AI/ML Enthusiast"
         self.location = "Andhra Pradesh, India 🇮🇳"
-        self.specialization = ["RAG Systems", "Machine Learning", "Deep Learning"]
+        self.mindset = "Continuous learner, passionate builder"
         
-    def tech_stack(self):
+    def currently_learning(self):
         return {
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-            "rag_llm": ["LangChain", "LlamaIndex", "OpenAI", "Vector DBs"],
-            "backend": ["FastAPI", "Python", "Node.js"],
-            "databases": ["PostgreSQL", "MongoDB", "Pinecone", "ChromaDB"],
-            "web": ["React", "TypeScript", "TailwindCSS"],
-            "tools": ["Docker", "Git", "Jupyter", "VS Code"]
+            "ai_ml": ["Machine Learning", "RAG Systems", "Deep Learning"],
+            "backend": ["FastAPI", "Python", "PostgreSQL"],
+            "web": ["React", "TypeScript", "JavaScript"],
+            "tools": ["Git", "Docker", "VS Code"]
         }
     
-    def current_focus(self):
+    def interests(self):
         return [
-            "Building production-ready RAG applications 🚀",
-            "Fine-tuning LLMs for domain-specific tasks",
-            "Optimizing vector search & embeddings",
-            "Deploying ML models at scale with FastAPI"
+            "Understanding how AI/ML models work",
+            "Building practical applications with RAG",
+            "Creating APIs with FastAPI",
+            "Contributing to open source"
         ]
-    
-    def fun_fact(self):
-        return "I train models by day and debug them by night 🌙"
 
-vamshi = AIMLDeveloper()
+vamshi = LearningJourney()
 ```
 
 <!-- Animated Divider -->
@@ -55,7 +50,7 @@ vamshi = AIMLDeveloper()
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdlOXIzanZ0bTJwZGM5amQ4aGF3bTR5bThqenN1NGw3ZDZhOGJmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="32px" height="32px">
-  AI/ML Tech Arsenal
+  Technologies I'm Learning
 </h2>
 
 <!-- AI/ML Stack -->
@@ -113,7 +108,7 @@ vamshi = AIMLDeveloper()
 </table>
 
 <!-- Frontend & Tools -->
-<h3>🎨 Frontend & Developer Tools</h3>
+<h3>🎨 Frontend & Tools</h3>
 <table align="center">
   <tr>
     <td align="center" width="140" height="112.43">
@@ -144,41 +139,10 @@ vamshi = AIMLDeveloper()
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Expertise Section -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px" height="32px">
-  Core Expertise
-</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/brain.png" width="80px" alt="RAG"/>
-      <h3>RAG Systems</h3>
-      <p>Building intelligent retrieval-augmented generation systems with LangChain, vector databases, and embeddings</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80px" alt="ML"/>
-      <h3>Machine Learning</h3>
-      <p>Developing and deploying ML models using TensorFlow, PyTorch, and scikit-learn for real-world applications</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80px" alt="FastAPI"/>
-      <h3>FastAPI Development</h3>
-      <p>Creating high-performance REST APIs with FastAPI, PostgreSQL, and async programming</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <!-- GitHub Stats Section -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px">
-  GitHub Analytics
+  GitHub Stats
 </h2>
 
 <p align="center">
@@ -188,66 +152,7 @@ vamshi = AIMLDeveloper()
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI-M817&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VAMSHI-M817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
 </p>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Contribution Snake -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px" alt="Git"/>
-  Contribution Graph
-</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Trophies Section -->
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" height="32px">
-  GitHub Trophies
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VAMSHI-M817&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- What I'm Working On -->
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px" height="32px">
-  Current Projects
-</h2>
-
-```yaml
-projects:
-  - name: "Enterprise RAG System"
-    description: "Building a scalable RAG pipeline with LangChain and PostgreSQL"
-    tech: ["Python", "FastAPI", "LangChain", "PostgreSQL", "ChromaDB"]
-    
-  - name: "ML Model Deployment Platform"
-    description: "Creating a platform for deploying ML models with FastAPI"
-    tech: ["FastAPI", "Docker", "TensorFlow", "Redis"]
-    
-  - name: "Custom LLM Fine-tuning"
-    description: "Fine-tuning open-source LLMs for domain-specific tasks"
-    tech: ["PyTorch", "Hugging Face", "LoRA", "PEFT"]
-```
 
 <br/>
 
@@ -257,7 +162,7 @@ projects:
 <!-- Connect Section -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" height="32px">
-  Let's Connect & Collaborate
+  Let's Connect
 </h2>
 
 <p align="center">
@@ -273,7 +178,7 @@ projects:
 </p>
 
 <p align="center">
-  <i>💡 Open to collaborating on AI/ML projects, RAG systems, and innovative ideas!</i>
+  <i>Always learning, always building 🚀</i>
 </p>
 
 <br/>
@@ -281,7 +186,6 @@ projects:
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VAMSHI-M817&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/VAMSHI-M817?label=Followers&style=flat-square&color=6C63FF" alt="Followers"/>
 </p>
 
 <!-- Animated Footer -->
@@ -291,15 +195,5 @@ projects:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
-
----
-
-<h3 align="center">
-  🤖 "The best way to predict the future is to invent it" - Alan Kay 🤖
-</h3>
-
-<h3 align="center">
-  💙 Thanks for visiting! Let's build intelligent systems together 💙
-</h3>
 
 </div>

@@ -122,38 +122,6 @@ class VamshiMarepu:
 
 <br/>
 
-<!-- Animated Line Break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VAMSHI-M817&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<br/>
-
-<!-- Animated Line Break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VAMSHI-M817/VAMSHI-M817/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<!-- Animated Line Break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,26&height=150&section=footer"/>
 

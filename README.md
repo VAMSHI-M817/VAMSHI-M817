@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamshi%20Marepu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamshi%20Marepu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Developer%20|%20RAG%20Specialist%20|%20FastAPI%20Expert&descSize=16&descAlignY=51" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Amazing+Web+Experiences;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer+%F0%9F%A4%96;Building+Intelligent+RAG+Systems;Machine+Learning+%7C+Deep+Learning;FastAPI+%7C+PostgreSQL+%7C+LLMs" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,20 +17,36 @@
   About Me
 </h2>
 
-```typescript
-const vamshi = {
-    location: "Andhra Pradesh, India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
-    currentFocus: "Building scalable web applications 🎯",
-    funFact: "I debug with console.log() and I'm not ashamed 😄"
-};
+```python
+class AIMLDeveloper:
+    def __init__(self):
+        self.name = "Vamshi Marepu"
+        self.role = "AI/ML Developer"
+        self.location = "Andhra Pradesh, India 🇮🇳"
+        self.specialization = ["RAG Systems", "Machine Learning", "Deep Learning"]
+        
+    def tech_stack(self):
+        return {
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
+            "rag_llm": ["LangChain", "LlamaIndex", "OpenAI", "Vector DBs"],
+            "backend": ["FastAPI", "Python", "Node.js"],
+            "databases": ["PostgreSQL", "MongoDB", "Pinecone", "ChromaDB"],
+            "web": ["React", "TypeScript", "TailwindCSS"],
+            "tools": ["Docker", "Git", "Jupyter", "VS Code"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building production-ready RAG applications 🚀",
+            "Fine-tuning LLMs for domain-specific tasks",
+            "Optimizing vector search & embeddings",
+            "Deploying ML models at scale with FastAPI"
+        ]
+    
+    def fun_fact(self):
+        return "I train models by day and debug them by night 🌙"
+
+vamshi = AIMLDeveloper()
 ```
 
 <!-- Animated Divider -->
@@ -39,53 +55,117 @@ const vamshi = {
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdlOXIzanZ0bTJwZGM5amQ4aGF3bTR5bThqenN1NGw3ZDZhOGJmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="32px" height="32px">
-  Tech Arsenal
+  AI/ML Tech Arsenal
 </h2>
 
-<!-- Tech Stack with Skill Bars -->
+<!-- AI/ML Stack -->
+<h3>🤖 AI & Machine Learning</h3>
 <table align="center">
-  <tr>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript"/>
-      <br/><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript"/>
-      <br/><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React"/>
-      <br/><strong>React</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next.js"/>
-      <br/><strong>Next.js</strong>
-    </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/>
-      <br/><strong>Node.js</strong>
-    </td>
-  </tr>
   <tr>
     <td align="center" width="140" height="112.43">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python"/>
       <br/><strong>Python</strong>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind"/>
-      <br/><strong>Tailwind</strong>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65px" alt="TensorFlow"/>
+      <br/><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="65px" alt="PyTorch"/>
+      <br/><strong>PyTorch</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65px" alt="Scikit-learn"/>
+      <br/><strong>Scikit-learn</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65px" alt="Pandas"/>
+      <br/><strong>Pandas</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- Backend & Databases -->
+<h3>⚡ Backend & Databases</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastAPI"/>
+      <br/><strong>FastAPI</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="PostgreSQL"/>
+      <br/><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/>
       <br/><strong>MongoDB</strong>
     </td>
     <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/>
+      <br/><strong>Node.js</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker"/>
+      <br/><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- Frontend & Tools -->
+<h3>🎨 Frontend & Developer Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React"/>
+      <br/><strong>React</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript"/>
+      <br/><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript"/>
+      <br/><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind"/>
+      <br/><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git"/>
       <br/><strong>Git</strong>
     </td>
-    <td align="center" width="140" height="112.43">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/>
-      <br/><strong>VS Code</strong>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Expertise Section -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32px" height="32px">
+  Core Expertise
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/brain.png" width="80px" alt="RAG"/>
+      <h3>RAG Systems</h3>
+      <p>Building intelligent retrieval-augmented generation systems with LangChain, vector databases, and embeddings</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80px" alt="ML"/>
+      <h3>Machine Learning</h3>
+      <p>Developing and deploying ML models using TensorFlow, PyTorch, and scikit-learn for real-world applications</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/api-settings.png" width="80px" alt="FastAPI"/>
+      <h3>FastAPI Development</h3>
+      <p>Creating high-performance REST APIs with FastAPI, PostgreSQL, and async programming</p>
     </td>
   </tr>
 </table>
@@ -148,10 +228,36 @@ const vamshi = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<!-- What I'm Working On -->
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px" height="32px">
+  Current Projects
+</h2>
+
+```yaml
+projects:
+  - name: "Enterprise RAG System"
+    description: "Building a scalable RAG pipeline with LangChain and PostgreSQL"
+    tech: ["Python", "FastAPI", "LangChain", "PostgreSQL", "ChromaDB"]
+    
+  - name: "ML Model Deployment Platform"
+    description: "Creating a platform for deploying ML models with FastAPI"
+    tech: ["FastAPI", "Docker", "TensorFlow", "Redis"]
+    
+  - name: "Custom LLM Fine-tuning"
+    description: "Fine-tuning open-source LLMs for domain-specific tasks"
+    tech: ["PyTorch", "Hugging Face", "LoRA", "PEFT"]
+```
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <!-- Connect Section -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" height="32px">
-  Let's Connect
+  Let's Connect & Collaborate
 </h2>
 
 <p align="center">
@@ -166,11 +272,16 @@ const vamshi = {
   </a>
 </p>
 
+<p align="center">
+  <i>💡 Open to collaborating on AI/ML projects, RAG systems, and innovative ideas!</i>
+</p>
+
 <br/>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VAMSHI-M817&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/VAMSHI-M817?label=Followers&style=flat-square&color=6C63FF" alt="Followers"/>
 </p>
 
 <!-- Animated Footer -->
@@ -178,13 +289,17 @@ const vamshi = {
 
 <!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
 
 ---
 
 <h3 align="center">
-  💙 Thanks for visiting! Let's build something amazing together 💙
+  🤖 "The best way to predict the future is to invent it" - Alan Kay 🤖
+</h3>
+
+<h3 align="center">
+  💙 Thanks for visiting! Let's build intelligent systems together 💙
 </h3>
 
 </div>

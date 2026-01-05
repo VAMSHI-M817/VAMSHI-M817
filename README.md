@@ -26,9 +26,3 @@ Software Developer with a focus on AI/ML. I build scalable applications and inte
 - Building full-stack applications with modern frameworks
 - Developing RAG systems and ML-powered features
 - Deploying scalable solutions on cloud infrastructure
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VAMSHI-M817&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" />
-</p>
